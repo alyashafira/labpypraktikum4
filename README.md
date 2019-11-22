@@ -124,8 +124,11 @@
                 >>> digunakan untuk menambahkan data pada list dan juga untuk menentukan nilai akhir dari operasi hitung yang telah di                       input yang dimasukan kedalam tabel.
                 
                 
-                
-                ** HASIL DARI PRAKTIKUM 4 **
+![Praktikum4](https://user-images.githubusercontent.com/56963083/69405868-55ab3c00-0d33-11ea-886e-efcafaf8c5f8.PNG)
+               
+** HASIL DARI PRAKTIKUM 4 **
+
+**Selesai**
                 
                 
                 
